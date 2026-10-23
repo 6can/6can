@@ -1,1 +1,1 @@
-can - building & breaking software · contact: me@husnucan.dev
+<a href="https://husnucan.dev"><img src="./banner.svg" width="100%" alt="can."></a>
